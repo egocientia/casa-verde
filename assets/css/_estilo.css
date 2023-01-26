@@ -3,8 +3,9 @@
     --preto: #202020;
     --cinza: #909090;
     --branco: #FFFFFF;
-    --sombra-botao: 10px 10px 30px #FFCB473D;
+    --sombra-amarela: 10px 10px 30px #FFCB473D;
+    --sombra-preta: 10px 10px 30px #0000000F;
     --montserrat: 'Montserrat', sans-serif;
-    --Elsie: 'Elsie Swash Caps', sans-serif;
+    --Elsie: 'Elsie Swash Caps', serif;
 
 }
