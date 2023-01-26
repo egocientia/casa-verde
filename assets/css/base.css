@@ -5,6 +5,9 @@
 @import url(_cartao.css);
 @import url(_item.css);
 @import url(_produto.css);
+@import url(_video.css);
+@import url(_cabecalho.css);
+@import url(_rodape.css);
 
 body{
     background: url(../../assets/img/textura.png), url(../img/linhas.png);
