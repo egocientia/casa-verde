@@ -5,8 +5,8 @@
     font-weight: var(--peso-botao);
     color: white;
     width: 100%;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
     box-shadow: var(--sombra-amarela);
     border: none;
 }

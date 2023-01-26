@@ -50,5 +50,6 @@
 
     margin-left: 1.75rem;
     background-size: contain;
-    background: url(../img/icones/seta.svg);
+    background: url(../img/icones/seta.png);
+    background-repeat: no-repeat;
 }
