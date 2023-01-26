@@ -2,15 +2,24 @@
 @import url(_reset.css);
 @import url(_botoes.css);
 @import url(_input.css);
+@import url(_cartao.css);
 
 body{
     background: url(../../assets/img/textura.png), url(../img/linhas.png);
     background-position: center;
     font-family: var(--montserrat);
     font-size: 1rem;
+    color: var(--cinza);
 }
 
 .container {
     padding-right: 1rem;
     padding-left: 1rem;
+}
+
+.titulo {
+    font-family: var(--elsie);
+    font-weight: 900;
+    font-size: 1.375rem;
+    color: var(--cinza);
 }
