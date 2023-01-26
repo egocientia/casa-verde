@@ -8,7 +8,7 @@ body{
     background: url(../../assets/img/textura.png), url(../img/linhas.png);
     background-position: center;
     font-family: var(--montserrat);
-    font-size: 1rem;
+    font-size: var(--tamanho-corpo);
     color: var(--cinza);
 }
 
@@ -18,8 +18,5 @@ body{
 }
 
 .titulo {
-    font-family: var(--elsie);
-    font-weight: 900;
-    font-size: 1.375rem;
-    color: var(--cinza);
+    font-size: var(--tamanho-titulo);
 }
