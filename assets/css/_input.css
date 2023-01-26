@@ -13,7 +13,7 @@
     border: none;
 
     background-color: var(--branco);
-    box-shadow: var(--sombra-botao);
+    box-shadow: var(--sombra-preta);
 }
 
 .input--icone {
