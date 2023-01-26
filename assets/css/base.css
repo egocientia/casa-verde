@@ -1,0 +1,16 @@
+@import url(_estilo.css);
+@import url(_reset.css);
+@import url(_botoes.css);
+@import url(_input.css);
+
+body{
+    background: url(../../assets/img/textura.png), url(../img/linhas.png);
+    background-position: center;
+    font-family: var(--montserrat);
+    font-size: 1rem;
+}
+
+.container {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}

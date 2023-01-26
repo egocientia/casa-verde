@@ -1,7 +1,7 @@
 .botao {
     background-color: var(--amarelo);
     text-align: center;
-    font-family: var(--montserrat);
+    font-family: inherit;
     font-weight: 700;
     color: white;
     width: 100%;
@@ -9,4 +9,11 @@
     padding-bottom: 1rem;
     box-shadow: var(--sombra-botao);
     border: none;
+}
+
+.botao--alternativo {
+    background-color: transparent;
+    color: var(--amarelo);
+    box-shadow: none;
+    border: 1px solid var(--amarelo)
 }
