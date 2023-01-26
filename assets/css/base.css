@@ -20,3 +20,25 @@ body{
 .titulo {
     font-size: var(--tamanho-titulo);
 }
+
+.titulo--destaque {
+    font-weight: var(--peso-destaque);
+    font-size: var(--tamanho-destaque);
+    font-family: var(--Elsie);
+    color: var(--preto);
+    display: block;
+    margin-top: .75rem;
+    margin-bottom: .75rem;
+}
+
+.alinhamento-esquerda {
+    text-align: left;
+}
+
+.alinhamento-meio {
+    text-align: center;
+}
+
+.texto {
+    line-height: 26px;
+}
